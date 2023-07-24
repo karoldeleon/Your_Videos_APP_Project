@@ -89,7 +89,7 @@ The development of "Your Videos APP" is based on a combination of modern and pow
 You can enter the Deploy and test yourself @ the project https://yourvideosapp.vercel.app/
 
 
-## Medium
+## Support
 
 For support or any questions please email kfortuner29@hotmail.com or kfortuner29@gmail.com
 
