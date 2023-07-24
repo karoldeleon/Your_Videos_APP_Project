@@ -13,8 +13,8 @@ El proyecto "Your Videos APP" es una muestra de mis habilidades en el desarrollo
 ## Screenshots
 
 <div align="center">
-<a href="https://ibb.co/THrrXTQ"><img src="https://i.ibb.co/khMMnyL/screenshot.jpg" alt="screenshot" border="0" style="width: 300px; height: auto;" /></a>
-<a href="https://ibb.co/1ngSPB0"><img src="https://i.ibb.co/n0GWY4w/screenshot.jpg" alt="screenshot" border="0" style="width: 300px; height: auto;" /></a>
+<a href="https://ibb.co/THrrXTQ"><img src="https://i.ibb.co/khMMnyL/screenshot.jpg" alt="screenshot" border="0" style="width: 400px; height: auto;" /></a>
+<a href="https://ibb.co/1ngSPB0"><img src="https://i.ibb.co/n0GWY4w/screenshot.jpg" alt="screenshot" border="0" style="width: 400px; height: auto;" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VpR7XMg/screenshot.jpg" alt="screenshot" border="0" style="width: 250px; height: 500px;" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0yD2f0P/screenshot.jpg" alt="screenshot" border="0" style="width: 250px; height: 500px;" /></a>
 </div>
@@ -63,8 +63,8 @@ The "Your Videos APP" project is a showcase of my skills in FrontEnd development
 ## Screenshots
 
 <div align="center">
-<a href="https://ibb.co/THrrXTQ"><img src="https://i.ibb.co/khMMnyL/screenshot.jpg" alt="screenshot" border="0" style="width: 500px; height: auto;" /></a>
-<a href="https://ibb.co/1ngSPB0"><img src="https://i.ibb.co/n0GWY4w/screenshot.jpg" alt="screenshot" border="0" style="width: 500px; height: auto;" /></a>
+<a href="https://ibb.co/THrrXTQ"><img src="https://i.ibb.co/khMMnyL/screenshot.jpg" alt="screenshot" border="0" style="width: 400px; height: auto;" /></a>
+<a href="https://ibb.co/1ngSPB0"><img src="https://i.ibb.co/n0GWY4w/screenshot.jpg" alt="screenshot" border="0" style="width: 400px; height: auto;" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VpR7XMg/screenshot.jpg" alt="screenshot" border="0" style="width: 250px; height: 500px;" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0yD2f0P/screenshot.jpg" alt="screenshot" border="0" style="width: 250px; height: 500px;" /></a>
 </div>
