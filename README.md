@@ -12,7 +12,7 @@ El proyecto "Your Videos APP" es una muestra de mis habilidades en el desarrollo
 
 ## Screenshots
 
-<div align="left">
+<div align="center">
 <a href="https://ibb.co/THrrXTQ"><img src="https://i.ibb.co/khMMnyL/screenshot.jpg" alt="screenshot" border="0" style="width: 500px; height: auto;" /></a>
 <a href="https://ibb.co/1ngSPB0"><img src="https://i.ibb.co/n0GWY4w/screenshot.jpg" alt="screenshot" border="0" style="width: 500px; height: auto;" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VpR7XMg/screenshot.jpg" alt="screenshot" border="0" style="width: 250px; height: 500px;" /></a>
